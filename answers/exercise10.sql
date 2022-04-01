@@ -1,0 +1,1 @@
+ select * from Students WHERE City NOT LIKE ('Philadelphia', 'Trenton');
